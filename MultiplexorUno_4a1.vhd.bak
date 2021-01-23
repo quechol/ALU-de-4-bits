@@ -1,0 +1,13 @@
+-- Multiplexor1 4 a 1
+library IEEE;
+use IEEE.std_logic_1164.all;
+entity MultiplexorUno_4a1 is
+	port (E: in std_logic_vector(3 downto 0);
+			);
+end MultiplexorUno_4a1;
+
+architecture MultiplexorUno_4a1_bh of MultiplexorUno_4a1 is
+
+begin
+
+end MultiplexorUno_4a1_bh;

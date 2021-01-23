@@ -1,0 +1,20 @@
+-- ALU
+library IEEE;
+use IEEE.std_logic_1164.all;
+
+entity SumadorCompleto is
+	port (a_in, b_in: in std_logic;
+			s_out, c_out: out std_logic);
+end entity SumadorCompleto;
+
+architecture bh of ALU2 is
+	component MedioSumador is
+		port (a, b: in std_logic;
+				s, c: out std_logic);
+	end component;
+	
+	-- signal
+begin
+	MedioSumador_1: MedioSumador port map (a_in, b_in, s_out, c_out);
+end bh;
+	

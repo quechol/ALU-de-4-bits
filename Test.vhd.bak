@@ -1,0 +1,13 @@
+-- Test 
+library IEEE;
+use IEEE.std_logic_1164.all;
+
+entity Test is
+	port();
+end Tets;
+
+architecture Test_bh of Test is
+
+begin
+
+end Test_bh;

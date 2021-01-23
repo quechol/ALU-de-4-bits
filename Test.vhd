@@ -1,0 +1,13 @@
+-- ALU
+-- 000 pasar el dato
+-- 001 and
+-- 010 or
+-- 011 not
+-- 100 suma
+-- 101 resta
+-- 110 incremento
+-- 111 decremento
+-- Cin acarreo de entrada
+-- Cout acarreo de salida
+-- Sout salida
+	
