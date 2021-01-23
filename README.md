@@ -12,3 +12,5 @@ ALU de 4 bits con 8 operaciones
 -- Autor: Gerardo Miguel Quechol Zarate
 -- Version: 2
 -- Fecha: 23/01/2021
+Proyecto completo: 
+https://drive.google.com/file/d/1TnznYx4DgpbUI1vDtdgjYUfKX6nf9_1J/view?usp=sharing
